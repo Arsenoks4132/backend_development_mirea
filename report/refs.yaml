@@ -1,155 +1,32 @@
-bolbakov2023:
+web-dev-tuzovskiy:
   type: Book
-  title: Настройка и администрирование сервисного программного обеспечения
-  genre: учебное пособие
-  author:
-    - "Болбаков, Р. Г."
-    - "Матчин, В. Т."
-    - "Мордвинов, В. А."
-  date: 2023
-  page-total: 142
-  serial-number: "ISBN\x00978-5-7339-1860-0"
-  language: ru-RU
-  publisher:
-    name: РТУ МИРЭА
-    location: Москва
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/382442
-      date: 2024-12-09
-
-stackoverflow2024:
-  type: Web
-  title: Stack Overflow Developer Survey 2024
-  genre: опрос
-  date: 2024
-  url:
-    value: https://survey.stackoverflow.co/2024/technology
-    date: 2024-12-09
-
-markelov2019:
-  type: Book
-  title: Введение в технологию контейнеров и Kubernetes
-  author: "Маркелов, А. А."
-  date: 2019
-  page-total: 194
-  serial-number: "ISBN\x00978-5-97060-775-6"
-  language: ru-RU
-  publisher:
-    name: ДМК Пресс
-    location: Москва
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/131702
-      date: 2024-12-09
-
-deshko2021:
-  type: Book
-  title: Управление сетевыми информационными системами
-  genre: курс лекций
-  author:
-    - "Дешко, И. П."
-    - "Кряженков, К. Г."
+  title: Проектирование и разработка web-приложений
+  genre: учебное пособие для вузов
+  author: "Тузовский, А. Ф."
   date: 2021
-  page-total: 174
+  page-total: 218
+  serial-number: "ISBN 978-5-534-00515-8"
   language: ru-RU
   publisher:
-    name: РТУ МИРЭА
+    name: Юрайт
     location: Москва
   parent:
     type: Web
-    title: Лань
-    organization: электронно-библиотечная система
+    title: Образовательная платформа Юрайт
     url:
-      value: https://e.lanbook.com/book/176536
-      date: 2024-12-09
+      value: https://urait.ru/bcode/469982
+      date: 2026-05-12
 
-mironov2022:
+martin2021:
   type: Book
-  title: Системное программное обеспечение
-  genre: учебное пособие
-  author:
-    - "Миронов, А. Н."
-    - "Воронцов, Ю. А."
-    - "Михайлова, Е. К."
-  date: 2022
-  page-total: 216
+  title: Чистая архитектура. Искусство разработки программного обеспечения
+  author: "Мартин, Р."
+  date: 2021
+  page-total: 352
   language: ru-RU
   publisher:
-    name: РТУ МИРЭА
-    location: Москва
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/265712
-      date: 2024-12-09
-
-godzuras2023a:
-  type: Book
-  title: Docker Compose для разработчика
-  genre: руководство
-  author: "Годзурас, Э."
-  translator: "Киселева, А. Н."
-  date: 2023
-  page-total: 220
-  serial-number: "ISBN\x00978-5-93700-203-7"
-  language: ru-RU
-  publisher:
-    name: ДМК Пресс
-    location: Москва
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/348110
-      date: 2024-12-09
-
-johansson2022:
-  type: Thesis
-  title: HTTP Load Balancing Performance Evaluation of HAProxy, NGINX, Traefik and Envoy with the Round-Robin Algorithm
-  author: "Johansson, A."
-  date: 2022
-  url:
-    value: https://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-21475
-    date: 2024-12-09
-
-chihana2018:
-  type: Article
-  title: "Web Server Performance of Apache and Nginx: A Systematic Literature Review"
-  author: "Chihana, S."
-  date: 2018
-  url:
-    value: https://www.researchgate.net/profile/Sipiwe-Chihana/publication/329118749_Web_Server_Performance_of_Apache_and_Nginx_A_Systematic_Literature_Review/links/5bf691d0299bf1124fe55161/Web-Server-Performance-of-Apache-and-Nginx-A-Systematic-Literature-Review.pdf
-    date: 2024-12-09
-
-persival2018:
-  type: Book
-  title: "Python. Разработка на основе тестирования. Повинуйся Билли-тестировщику, используя Django, Selenium и JavaScript"
-  author: "Персиваль, Г."
-  translator: "Логунов, А. В."
-  date: 2018
-  page-total: 622
-  serial-number: "ISBN\x00978-5-97060-594-3"
-  language: ru-RU
-  publisher:
-    name: ДМК Пресс
-    location: Москва
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/111440
-      date: 2024-12-09
+    name: Питер
+    location: Санкт-Петербург
 
 mele2023:
   type: Book
@@ -159,7 +36,7 @@ mele2023:
   translator: "Логунов, А. В."
   date: 2023
   page-total: 800
-  serial-number: "ISBN\x00978-5-93700-204-4"
+  serial-number: "ISBN 978-5-93700-204-4"
   language: ru-RU
   publisher:
     name: ДМК Пресс
@@ -170,9 +47,61 @@ mele2023:
     organization: электронно-библиотечная система
     url:
       value: https://e.lanbook.com/book/348113
-      date: 2024-12-09
+      date: 2026-05-12
 
-godzuras2023b:
+persival2022:
+  type: Book
+  title: Паттерны разработки на Python. TDD, DDD и событийно-ориентированная архитектура
+  author:
+    - "Персиваль, Г."
+    - "Грегори, Б."
+  date: 2022
+  page-total: 336
+  language: ru-RU
+  publisher:
+    name: Питер
+    location: Санкт-Петербург
+
+hoffman2021:
+  type: Book
+  title: Безопасность веб-приложений
+  author: "Хоффман, Э."
+  date: 2021
+  page-total: 336
+  language: ru-RU
+  publisher:
+    name: Питер
+    location: Санкт-Петербург
+
+antonova2019:
+  type: Book
+  title: Разработка web-сервисов с использованием HTML, CSS, PHP и MySQL
+  genre: учебно-методическое пособие
+  author:
+    - "Антонова, И. И."
+    - "Кашкин, Е. В."
+  date: 2019
+  language: ru-RU
+  publisher:
+    name: РТУ МИРЭА
+    location: Москва
+  parent:
+    type: Web
+    title: Библиотека МИРЭА
+    url:
+      value: http://library.mirea.ru/secret/15052019/2022.iso
+      date: 2026-05-12
+
+pipeops2024:
+  type: Article
+  title: "PostgreSQL and MySQL: Which is Better? A 2024 Comparison"
+  author: "PipeOps"
+  date: 2024
+  url:
+    value: https://blog.pipeops.io/postgresql-and-mysql-which-is-better-a-2024-comparison/
+    date: 2026-05-12
+
+godzuras2023:
   type: Book
   title: Docker Compose для разработчика
   genre: руководство
@@ -180,7 +109,7 @@ godzuras2023b:
   translator: "Киселева, А. Н."
   date: 2023
   page-total: 220
-  serial-number: "ISBN\x00978-5-93700-203-7"
+  serial-number: "ISBN 978-5-93700-203-7"
   language: ru-RU
   publisher:
     name: ДМК Пресс
@@ -191,56 +120,28 @@ godzuras2023b:
     organization: электронно-библиотечная система
     url:
       value: https://e.lanbook.com/book/348110
-      date: 2024-12-09
+      date: 2026-05-12
 
-pipeops2024:
-  type: Article
-  title: "PostgreSQL and MySQL: Which is Better? A 2024 Comparison"
-  author: PipeOps
-  date: 2024
+django-docs:
+  type: Web
+  title: Django documentation
+  date: 2026
   url:
-    value: https://blog.pipeops.io/postgresql-and-mysql-which-is-better-a-2024-comparison/
-    date: 2024-12-09
+    value: https://docs.djangoproject.com/en/5.1/
+    date: 2026-05-12
 
-vyas2023:
-  type: Book
-  title: Kubernetes изнутри
-  author:
-    - "Вьяс, Д."
-    - "Лав, К."
-  translator: "Киселева, А. Н."
-  date: 2023
-  page-total: 378
-  serial-number: "ISBN\x00978-5-93700-153-5"
-  language: ru-RU
-  publisher:
-    name: ДМК Пресс
-    location: Москва
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/314942
-      date: 2024-12-09
+postgresql-docs:
+  type: Web
+  title: PostgreSQL Documentation
+  date: 2026
+  url:
+    value: https://www.postgresql.org/docs/
+    date: 2026-05-12
 
-balanov2024:
-  type: Book
-  title: "Комплексное руководство по разработке: от мобильных приложений до веб-технологий"
-  genre: учебное пособие для СПО
-  author: "Баланов, А. Н."
-  date: 2024
-  edition: "3"
-  page-total: 412
-  serial-number: "ISBN\x00978-5-507-48841-4"
-  language: ru-RU
-  publisher:
-    name: Лань
-    location: Санкт-Петербург
-  parent:
-    type: Web
-    title: Лань
-    organization: электронно-библиотечная система
-    url:
-      value: https://e.lanbook.com/book/438890
-      date: 2024-12-09
+redis-docs:
+  type: Web
+  title: Redis Documentation
+  date: 2026
+  url:
+    value: https://redis.io/docs/latest/
+    date: 2026-05-12
