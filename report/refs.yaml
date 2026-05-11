@@ -1,0 +1,246 @@
+bolbakov2023:
+  type: Book
+  title: Настройка и администрирование сервисного программного обеспечения
+  genre: учебное пособие
+  author:
+    - "Болбаков, Р. Г."
+    - "Матчин, В. Т."
+    - "Мордвинов, В. А."
+  date: 2023
+  page-total: 142
+  serial-number: "ISBN\x00978-5-7339-1860-0"
+  language: ru-RU
+  publisher:
+    name: РТУ МИРЭА
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/382442
+      date: 2024-12-09
+
+stackoverflow2024:
+  type: Web
+  title: Stack Overflow Developer Survey 2024
+  genre: опрос
+  date: 2024
+  url:
+    value: https://survey.stackoverflow.co/2024/technology
+    date: 2024-12-09
+
+markelov2019:
+  type: Book
+  title: Введение в технологию контейнеров и Kubernetes
+  author: "Маркелов, А. А."
+  date: 2019
+  page-total: 194
+  serial-number: "ISBN\x00978-5-97060-775-6"
+  language: ru-RU
+  publisher:
+    name: ДМК Пресс
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/131702
+      date: 2024-12-09
+
+deshko2021:
+  type: Book
+  title: Управление сетевыми информационными системами
+  genre: курс лекций
+  author:
+    - "Дешко, И. П."
+    - "Кряженков, К. Г."
+  date: 2021
+  page-total: 174
+  language: ru-RU
+  publisher:
+    name: РТУ МИРЭА
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/176536
+      date: 2024-12-09
+
+mironov2022:
+  type: Book
+  title: Системное программное обеспечение
+  genre: учебное пособие
+  author:
+    - "Миронов, А. Н."
+    - "Воронцов, Ю. А."
+    - "Михайлова, Е. К."
+  date: 2022
+  page-total: 216
+  language: ru-RU
+  publisher:
+    name: РТУ МИРЭА
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/265712
+      date: 2024-12-09
+
+godzuras2023a:
+  type: Book
+  title: Docker Compose для разработчика
+  genre: руководство
+  author: "Годзурас, Э."
+  translator: "Киселева, А. Н."
+  date: 2023
+  page-total: 220
+  serial-number: "ISBN\x00978-5-93700-203-7"
+  language: ru-RU
+  publisher:
+    name: ДМК Пресс
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/348110
+      date: 2024-12-09
+
+johansson2022:
+  type: Thesis
+  title: HTTP Load Balancing Performance Evaluation of HAProxy, NGINX, Traefik and Envoy with the Round-Robin Algorithm
+  author: "Johansson, A."
+  date: 2022
+  url:
+    value: https://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-21475
+    date: 2024-12-09
+
+chihana2018:
+  type: Article
+  title: "Web Server Performance of Apache and Nginx: A Systematic Literature Review"
+  author: "Chihana, S."
+  date: 2018
+  url:
+    value: https://www.researchgate.net/profile/Sipiwe-Chihana/publication/329118749_Web_Server_Performance_of_Apache_and_Nginx_A_Systematic_Literature_Review/links/5bf691d0299bf1124fe55161/Web-Server-Performance-of-Apache-and-Nginx-A-Systematic-Literature-Review.pdf
+    date: 2024-12-09
+
+persival2018:
+  type: Book
+  title: "Python. Разработка на основе тестирования. Повинуйся Билли-тестировщику, используя Django, Selenium и JavaScript"
+  author: "Персиваль, Г."
+  translator: "Логунов, А. В."
+  date: 2018
+  page-total: 622
+  serial-number: "ISBN\x00978-5-97060-594-3"
+  language: ru-RU
+  publisher:
+    name: ДМК Пресс
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/111440
+      date: 2024-12-09
+
+mele2023:
+  type: Book
+  title: Django 4 в примерах
+  genre: руководство
+  author: "Меле, А."
+  translator: "Логунов, А. В."
+  date: 2023
+  page-total: 800
+  serial-number: "ISBN\x00978-5-93700-204-4"
+  language: ru-RU
+  publisher:
+    name: ДМК Пресс
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/348113
+      date: 2024-12-09
+
+godzuras2023b:
+  type: Book
+  title: Docker Compose для разработчика
+  genre: руководство
+  author: "Годзурас, Э."
+  translator: "Киселева, А. Н."
+  date: 2023
+  page-total: 220
+  serial-number: "ISBN\x00978-5-93700-203-7"
+  language: ru-RU
+  publisher:
+    name: ДМК Пресс
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/348110
+      date: 2024-12-09
+
+pipeops2024:
+  type: Article
+  title: "PostgreSQL and MySQL: Which is Better? A 2024 Comparison"
+  author: PipeOps
+  date: 2024
+  url:
+    value: https://blog.pipeops.io/postgresql-and-mysql-which-is-better-a-2024-comparison/
+    date: 2024-12-09
+
+vyas2023:
+  type: Book
+  title: Kubernetes изнутри
+  author:
+    - "Вьяс, Д."
+    - "Лав, К."
+  translator: "Киселева, А. Н."
+  date: 2023
+  page-total: 378
+  serial-number: "ISBN\x00978-5-93700-153-5"
+  language: ru-RU
+  publisher:
+    name: ДМК Пресс
+    location: Москва
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/314942
+      date: 2024-12-09
+
+balanov2024:
+  type: Book
+  title: "Комплексное руководство по разработке: от мобильных приложений до веб-технологий"
+  genre: учебное пособие для СПО
+  author: "Баланов, А. Н."
+  date: 2024
+  edition: "3"
+  page-total: 412
+  serial-number: "ISBN\x00978-5-507-48841-4"
+  language: ru-RU
+  publisher:
+    name: Лань
+    location: Санкт-Петербург
+  parent:
+    type: Web
+    title: Лань
+    organization: электронно-библиотечная система
+    url:
+      value: https://e.lanbook.com/book/438890
+      date: 2024-12-09
