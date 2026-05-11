@@ -145,3 +145,59 @@ redis-docs:
   url:
     value: https://redis.io/docs/latest/
     date: 2026-05-12
+
+docker-docs:
+  type: Web
+  title: Docker Docs
+  date: 2026
+  url:
+    value: https://docs.docker.com/
+    date: 2026-05-12
+
+flask-docs:
+  type: Web
+  title: Flask Documentation
+  date: 2026
+  url:
+    value: https://flask.palletsprojects.com/
+    date: 2026-05-12
+
+fastapi-docs:
+  type: Web
+  title: FastAPI Documentation
+  date: 2026
+  url:
+    value: https://fastapi.tiangolo.com/
+    date: 2026-05-12
+
+jira-software:
+  type: Web
+  title: Jira Software
+  date: 2026
+  url:
+    value: https://www.atlassian.com/software/jira
+    date: 2026-05-12
+
+tempo-timesheets:
+  type: Web
+  title: Tempo Timesheets
+  date: 2026
+  url:
+    value: https://www.tempo.io/product/timesheets
+    date: 2026-05-12
+
+bitrix24:
+  type: Web
+  title: Битрикс24
+  date: 2026
+  url:
+    value: https://www.bitrix24.ru/
+    date: 2026-05-12
+
+clockify:
+  type: Web
+  title: Clockify
+  date: 2026
+  url:
+    value: https://clockify.me/
+    date: 2026-05-12

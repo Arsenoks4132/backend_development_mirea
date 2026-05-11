@@ -25,6 +25,7 @@
 #set heading(
   hanging-indent: -const.indent,
 )
+#show heading.where(level: 1): set heading(hanging-indent: 0pt)
 #show heading: set par(
   justify: true,
   leading: const.leading-one,
