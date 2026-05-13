@@ -201,3 +201,21 @@ clockify:
   url:
     value: https://clockify.me/
     date: 2026-05-12
+
+johansson2022:
+  type: Thesis
+  title: HTTP Load Balancing Performance Evaluation of HAProxy, NGINX, Traefik and Envoy with the Round-Robin Algorithm
+  author: "Johansson, A."
+  date: 2022
+  url:
+    value: https://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-21475
+    date: 2026-05-12
+
+chihana2018:
+  type: Article
+  title: "Web Server Performance of Apache and Nginx: A Systematic Literature Review"
+  author: "Chihana, S."
+  date: 2018
+  url:
+    value: https://www.researchgate.net/profile/Sipiwe-Chihana/publication/329118749_Web_Server_Performance_of_Apache_and_Nginx_A_Systematic_Literature_Review/links/5bf691d0299bf1124fe55161/Web-Server-Performance-of-Apache-and-Nginx-A-Systematic-Literature-Review.pdf
+    date: 2026-05-12

@@ -8,6 +8,7 @@
 )
 
 #set text(font: "Times New Roman")
+#show raw: set text(font: "Courier New")
 #set block(
   above: auto,
   below: const.leading-one-and-a-half,
@@ -81,7 +82,7 @@
 #show figure.where(kind: raw): it => {
   block(breakable: false, below: const.leading-one, {
     align(left, it.caption)
-    set text(size: const.text-size.small)
+    set text(size: const.text-size.small, font: "Courier New")
     table(
       columns: (1fr,),
       stroke: const.stroke,
